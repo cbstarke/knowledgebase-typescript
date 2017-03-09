@@ -4,7 +4,7 @@
 }
 
 // The array is typed using the Monument interface
-var monuments: Monument[] = [];
+var monuments: Array<Monument> = [];
 
 // Each item added to the array is checked for type compatibility
 monuments.push({
@@ -40,6 +40,5 @@ var monumentOrderedByHeight = monuments.sort(compareMonumentHeights);
 var tallestMonument = monumentOrderedByHeight[0];
 
 console.log(tallestMonument.name); // Peter the Great
-
 
 

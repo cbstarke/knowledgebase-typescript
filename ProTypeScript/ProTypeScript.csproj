@@ -17,6 +17,25 @@
 
   <ItemGroup>
     <Content Include="wwwroot\ts\A_Listing_01_08_Enumerations.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_09_Enumerations_Split_Accross_Multiple_Blocks.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_1.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_10_Type_Assertions.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_11_Type_Assertions.js" />
+    <Content Include="wwwroot\ts\A_Listing_01_11_Type_Assertions.js.map" />
+    <Content Include="wwwroot\ts\A_Listing_01_11_Type_Assertions.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_12_Forced_Type_Assertions.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_13_Increment_And_Decrement.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_14_Increment_And_Decrement_Of_Enumerations.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_15_Binary_Plus_Operator.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_16_Unary_Plus_And_Minus_Operators.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_17_NOT_Operator.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_18_Shorthand_Boolean_Test.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_19_AND_Operator.js" />
+    <Content Include="wwwroot\ts\A_Listing_01_19_AND_Operator.js.map" />
+    <Content Include="wwwroot\ts\A_Listing_01_19_AND_Operator.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_20_OR_Operator.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_21_Short_Circuit_Evaluation.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_22_The_IF_Statement.ts" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />

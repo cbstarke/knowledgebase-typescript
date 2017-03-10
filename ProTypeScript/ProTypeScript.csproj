@@ -36,6 +36,12 @@
     <Content Include="wwwroot\ts\A_Listing_01_20_OR_Operator.ts" />
     <Content Include="wwwroot\ts\A_Listing_01_21_Short_Circuit_Evaluation.ts" />
     <Content Include="wwwroot\ts\A_Listing_01_22_The_IF_Statement.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_24_Function_Type_Annotations.js" />
+    <Content Include="wwwroot\ts\A_Listing_01_24_Function_Type_Annotations.js.map" />
+    <Content Include="wwwroot\ts\A_Listing_01_24_Function_Type_Annotations.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_25_Optional_Parameters.ts" />
+    <Content Include="wwwroot\ts\A_Listing_01_26_Default_Parameters.ts" />
+    <Content Include="wwwroot\ts\file.ts" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
